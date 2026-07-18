@@ -19,7 +19,7 @@
     "three": "^0.185.0",
     "postprocessing": "^6.39.2",
     "@supabase/supabase-js": "^2.43.0",
-    "@supabase/auth-ui-react": "^0.4.8",
+    "@supabase/auth-ui-react": "^0.4.7",
     "@supabase/auth-ui-shared": "^0.1.8",
     "stripe": "^14.7.0",
     "@stripe/react-stripe-js": "^2.7.0",
