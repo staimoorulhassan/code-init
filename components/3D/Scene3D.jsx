@@ -1,8 +1,8 @@
 // components/3D/Scene3D.jsx
 'use client'
 import React, { Suspense } from 'react'
-import { Canvas, PerspectiveCamera } from '@react-three/fiber'
-import { OrbitControls, PerspectiveCamera as Drei_PerspectiveCamera } from '@react-three/drei'
+import { Canvas } from '@react-three/fiber'
+import { OrbitControls, PerspectiveCamera } from '@react-three/drei'
 import { EffectComposer, Bloom } from '@react-three/postprocessing'
 import { AnimatedRobot } from './AnimatedRobot'
 import * as THREE from 'three'
