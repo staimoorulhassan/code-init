@@ -1,0 +1,35 @@
+{
+  "name": "ai-callcenter-sales-platform",
+  "version": "1.0.0",
+  "description": "Interactive AI Call Center Sales & Demo Platform",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "next": "^14.2.0",
+    "@react-three/fiber": "^8.16.0",
+    "@react-three/drei": "^9.110.0",
+    "@react-three/postprocessing": "^2.16.0",
+    "three": "^r128",
+    "postprocessing": "^6.35.2",
+    "@supabase/supabase-js": "^2.43.0",
+    "@supabase/auth-ui-react": "^0.4.8",
+    "@supabase/auth-ui-shared": "^0.1.8",
+    "stripe": "^14.7.0",
+    "@stripe/react-stripe-js": "^2.7.0",
+    "@stripe/stripe-js": "^3.0.0",
+    "zustand": "^4.5.0",
+    "framer-motion": "^10.16.16",
+    "axios": "^1.6.5"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "^14.2.0"
+  }
+}
